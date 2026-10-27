@@ -4,7 +4,7 @@
     "titulo": "Módulo 1 · Primeiros escritos e crítica do Estado",
     "descricao": "Como Marx chega à crítica da filosofia de Hegel e do direito, e rompe com o idealismo.",
     "leituras": [
-      { "titulo": "Crítica da Filosofia do Direito de Hegel", "autor": "Karl Marx", "ano": 1843, "link": "" },
+      { "titulo": "Crítica da Filosofia do Direito de Hegel", "autor": "Karl Marx", "ano": 1843, "https://sei.tjsc.jus.br/sei/controlador_externo.php?acao=usuario_externo_avisar_cadastro&id_orgao_acesso_externo=0": "" },
       { "titulo": "Manuscritos Econômicos e Filosóficos", "autor": "Karl Marx", "ano": 1844, "link": "" },
       { "titulo": "A Sagrada Família", "autor": "Karl Marx e Friedrich Engels", "ano": 1845, "link": "" },
       { "titulo": "A Ideologia Alemã", "autor": "Karl Marx e Friedrich Engels", "ano": 1846, "link": "" }
