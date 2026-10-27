@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Sem nome por enquanto: este título só aparece na aba do navegador. Troque quando tiver um. -->
+  <title>Biblioteca</title>
+  <link rel="icon" href="logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <!-- o ?v=5 força o navegador a baixar o CSS de novo; some 1 a cada atualização -->
+  <link rel="stylesheet" href="style.css?v=5">
+</head>
+<body>
+
+  <header class="topo">
+    <img class="marca" src="logo.png" alt="">
+    <nav class="abas" aria-label="Seções">
+      <button class="aba on" type="button" data-aba="curso">Curso</button>
+      <button class="aba" type="button" data-aba="biblioteca">Biblioteca</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ===== CURSO ===== -->
+    <section id="view-curso" class="view">
+      <div class="cabeca">
+        <h1 class="titulo-pagina">Introdução ao marxismo</h1>
+        <div class="curso-acoes">
+          <button id="expandir-tudo" class="acao" type="button">expandir tudo</button>
+          <button id="recolher-tudo" class="acao" type="button">recolher tudo</button>
+        </div>
+      </div>
+      <div id="modulos" class="modulos"></div>
+      <p id="curso-erro" class="vazio" hidden>Não foi possível carregar curso.json.</p>
+    </section>
+
+    <!-- ===== BIBLIOTECA ===== -->
+    <section id="view-biblioteca" class="view" hidden>
+      <div class="cabeca">
+        <h1 class="titulo-pagina">Biblioteca</h1>
+        <span id="contagem" class="contagem"></span>
+        <input id="busca" type="search" placeholder="buscar título, autor ou assunto…" autocomplete="off">
+      </div>
+
+      <button id="abrir-filtros" class="btn-filtros" type="button">Filtros</button>
+
+      <div class="layout">
+        <aside id="filtros" class="filtros" aria-label="Filtros"></aside>
+
+        <section class="conteudo">
+          <div class="barra">
+            <div id="ativos" class="ativos"></div>
+            <label class="ordem">ordenar
+              <select id="ordem">
+                <option value="titulo">título (A–Z)</option>
+                <option value="autor">autor (A–Z)</option>
+                <option value="ano">mais antigas</option>
+                <option value="ano-desc">mais recentes</option>
+              </select>
+            </label>
+          </div>
+
+          <div id="bloco-destaques" hidden>
+            <h2 class="rotulo">Em destaque</h2>
+            <ul id="destaques" class="obras"></ul>
+            <h2 class="rotulo">Todo o acervo</h2>
+          </div>
+
+          <ul id="lista" class="obras"></ul>
+          <p id="vazio" class="vazio" hidden>Nenhuma obra encontrada com esses filtros.</p>
+          <button id="mais" class="mais" type="button" hidden>mostrar mais</button>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

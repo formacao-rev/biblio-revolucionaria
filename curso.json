@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "titulo": "Módulo 1 · Primeiros escritos e crítica do Estado",
+    "descricao": "Como Marx chega à crítica da filosofia de Hegel e do direito, e rompe com o idealismo.",
+    "leituras": [
+      { "titulo": "Crítica da Filosofia do Direito de Hegel", "autor": "Karl Marx", "ano": 1843, "link": "" },
+      { "titulo": "Manuscritos Econômicos e Filosóficos", "autor": "Karl Marx", "ano": 1844, "link": "" },
+      { "titulo": "A Sagrada Família", "autor": "Karl Marx e Friedrich Engels", "ano": 1845, "link": "" },
+      { "titulo": "A Ideologia Alemã", "autor": "Karl Marx e Friedrich Engels", "ano": 1846, "link": "" }
+    ]
+  },
+  {
+    "id": "2",
+    "titulo": "Módulo 2 · Materialismo histórico",
+    "descricao": "A base material da sociedade, relações de produção e a teoria da história.",
+    "leituras": [
+      { "titulo": "Contribuição à Crítica da Economia Política", "autor": "Karl Marx", "ano": 1859, "link": "" },
+      { "titulo": "Grundrisse", "autor": "Karl Marx", "ano": 1858, "link": "" }
+    ]
+  },
+  {
+    "id": "3",
+    "titulo": "Módulo 3 · Economia política",
+    "descricao": "Mercadoria, valor, mais-valia e a dinâmica do capital.",
+    "leituras": [
+      { "titulo": "Salário, Preço e Lucro", "autor": "Karl Marx", "ano": 1865, "link": "" },
+      { "titulo": "O Capital (Livro I)", "autor": "Karl Marx", "ano": 1867, "link": "", "obra": "O Capital (Livro I)" }
+    ]
+  },
+  {
+    "id": "4",
+    "titulo": "Módulo 4 · Política e luta de classes",
+    "descricao": "Da teoria à prática: o Manifesto e a análise das revoluções de 1848 e da Comuna.",
+    "leituras": [
+      { "titulo": "Manifesto do Partido Comunista", "autor": "Karl Marx e Friedrich Engels", "ano": 1848, "link": "", "obra": "Manifesto do Partido Comunista" },
+      { "titulo": "As Lutas de Classes na França de 1848 a 1850", "autor": "Karl Marx", "ano": 1850, "link": "" },
+      { "titulo": "O 18 de Brumário de Luís Bonaparte", "autor": "Karl Marx", "ano": 1852, "link": "" },
+      { "titulo": "A Guerra Civil na França", "autor": "Karl Marx", "ano": 1871, "link": "" },
+      { "titulo": "Crítica ao Programa de Gotha", "autor": "Karl Marx", "ano": 1875, "link": "" }
+    ]
+  },
+  {
+    "id": "5",
+    "titulo": "Módulo 5 · Estado, direito e hegemonia",
+    "descricao": "Leituras posteriores sobre o Estado, a forma jurídica e a construção do consenso.",
+    "leituras": [
+      { "titulo": "Cadernos do Cárcere", "autor": "Antonio Gramsci", "ano": 1935, "link": "", "obra": "Cadernos do Cárcere" },
+      { "titulo": "A Teoria Geral do Direito e o Marxismo", "autor": "Evgeni Pachukanis", "ano": 1924, "link": "", "obra": "A Teoria Geral do Direito e o Marxismo" }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "titulo": "A República",
+    "autor": "Platão",
+    "ano": -375,
+    "tema": "Filosofia",
+    "subtema": "Filosofia antiga",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["justiça", "cidade ideal", "dialética"],
+    "link": "",
+    "destaque": true
+  },
+  {
+    "titulo": "Ética a Nicômaco",
+    "autor": "Aristóteles",
+    "ano": -340,
+    "tema": "Filosofia",
+    "subtema": "Filosofia antiga",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["ética", "virtude"],
+    "link": ""
+  },
+  {
+    "titulo": "Crítica da Razão Pura",
+    "autor": "Immanuel Kant",
+    "ano": 1781,
+    "tema": "Filosofia",
+    "subtema": "Epistemologia",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["idealismo transcendental", "conhecimento"],
+    "link": ""
+  },
+  {
+    "titulo": "Fenomenologia do Espírito",
+    "autor": "G. W. F. Hegel",
+    "ano": 1807,
+    "tema": "Filosofia",
+    "subtema": "Idealismo alemão",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["dialética", "consciência"],
+    "link": "",
+    "destaque": true
+  },
+  {
+    "titulo": "Summa Logicae",
+    "autor": "Guilherme de Ockham",
+    "ano": 1323,
+    "tema": "Filosofia",
+    "subtema": "Lógica medieval",
+    "tipo": "Livro",
+    "idioma": "Latim",
+    "tags": ["lógica", "nominalismo"],
+    "link": ""
+  },
+  {
+    "titulo": "O Capital (Livro I)",
+    "autor": "Karl Marx",
+    "ano": 1867,
+    "tema": "Marxismo",
+    "subtema": "Economia política",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["mercadoria", "mais-valia"],
+    "link": "",
+    "destaque": true
+  },
+  {
+    "titulo": "Manifesto do Partido Comunista",
+    "autor": "Karl Marx e Friedrich Engels",
+    "ano": 1848,
+    "tema": "Marxismo",
+    "subtema": "Textos clássicos",
+    "tipo": "Panfleto",
+    "idioma": "Português",
+    "tags": ["luta de classes"],
+    "link": ""
+  },
+  {
+    "titulo": "Cadernos do Cárcere",
+    "autor": "Antonio Gramsci",
+    "ano": 1935,
+    "tema": "Marxismo",
+    "subtema": "Teoria política marxista",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["hegemonia", "Estado"],
+    "link": ""
+  },
+  {
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "ano": 1899,
+    "tema": "Literatura",
+    "subtema": "Romance brasileiro",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["realismo", "narrador não confiável"],
+    "link": "",
+    "destaque": true
+  },
+  {
+    "titulo": "Crime e Castigo",
+    "autor": "Fiódor Dostoiévski",
+    "ano": 1866,
+    "tema": "Literatura",
+    "subtema": "Romance russo",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["culpa", "niilismo"],
+    "link": ""
+  },
+  {
+    "titulo": "O Príncipe",
+    "autor": "Nicolau Maquiavel",
+    "ano": 1532,
+    "tema": "Ciência Política",
+    "subtema": "Teoria política clássica",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["poder", "Estado"],
+    "link": ""
+  },
+  {
+    "titulo": "Leviatã",
+    "autor": "Thomas Hobbes",
+    "ano": 1651,
+    "tema": "Ciência Política",
+    "subtema": "Contratualismo",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["contrato social", "soberania"],
+    "link": ""
+  },
+  {
+    "titulo": "Dos Delitos e das Penas",
+    "autor": "Cesare Beccaria",
+    "ano": 1764,
+    "tema": "Direito",
+    "subtema": "Direito penal",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["pena", "iluminismo"],
+    "link": ""
+  },
+  {
+    "titulo": "Teoria Pura do Direito",
+    "autor": "Hans Kelsen",
+    "ano": 1934,
+    "tema": "Direito",
+    "subtema": "Teoria do direito",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["positivismo", "norma fundamental"],
+    "link": ""
+  },
+  {
+    "titulo": "A Teoria Geral do Direito e o Marxismo",
+    "autor": "Evgeni Pachukanis",
+    "ano": 1924,
+    "tema": "Direito",
+    "subtema": "Teoria do direito",
+    "tipo": "Livro",
+    "idioma": "Português",
+    "tags": ["forma jurídica", "mercadoria"],
+    "link": ""
+  }
+]
